@@ -1,7 +1,6 @@
-# 🚀 Java Selenium Cucumber BDD Framework
-
+# 🚀 Java selenium cucumber automation test
 ## 📌 Overview
-Welcome to the **Java Selenium Cucumber BDD Framework**! This framework is built using **Java, Selenium WebDriver, Cucumber, and Junit** to provide an efficient and scalable solution for automating web applications with BDD principles.
+Welcome to the **Java selenium cucumber automation test**! This framework is built using **Java, Selenium WebDriver, Cucumber, and Junit** to provide an efficient and scalable solution for automating web applications with BDD principles.
 
 ---
 
