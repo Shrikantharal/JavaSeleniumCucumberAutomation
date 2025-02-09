@@ -1,4 +1,4 @@
-name: Java BDD Test Automation Framework CI Build
+name: Java selenium cucumber test Automation CI Build
 
 on:
   push:
