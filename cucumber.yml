@@ -1,0 +1,7 @@
+default:
+  features: "src/test/resources/features"
+  glue: "com.example.definitions"
+  plugin:
+    - pretty
+    - html:target/cucumber-reports/cucumber-report.html
+  tags: ""
